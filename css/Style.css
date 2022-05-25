@@ -1,0 +1,41 @@
+body{
+    background-color: rgba(0,57,29,255);
+}
+h1{
+   
+    text-align: center;
+
+}
+table{
+    border: 1px  solid white;
+    border-collapse: collapse;
+}
+td , th{
+    font-size: 28;
+    padding: 10px 25px;
+    text-align: left;
+    color: white;
+    
+}
+td:nth-last-child(odd){
+
+    background-color: rgba(0,0,0,0.5);
+
+}
+tr:nth-last-child(odd){
+
+    background-color: rgba(0,0,0,0.5);
+
+}
+.gg{
+
+    font-size: 500%;
+    float: left;
+
+}
+.direita{
+    float: left;
+}
+.esquerda{
+    float:right;
+}
